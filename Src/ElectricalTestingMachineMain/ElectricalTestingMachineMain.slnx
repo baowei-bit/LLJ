@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CommandSystem/CommandSystem.csproj" Id="ca9853d9-f653-46c0-975c-0eed33ffac40" />
+  <Project Path="ElectricalTestingMachineMain/ElectricalTestingMachineMain.csproj" />
+</Solution>
